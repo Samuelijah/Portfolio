@@ -29,17 +29,10 @@ export default function Testimonial() {
               ))}
             </div>
             <p className="text-md">{item.description}</p>
-            <div className="testimonial--section--card--author--detail">
-              <img src={item.src} alt="Avatar" />
-              <div>
+            <img src={item.src} width={500} />
                 <p className="text-md testimonial--author--name">
                   {item.author_name}
                 </p>
-                <p className="text-md testimonial--author--designation">
-                  {item.author_designation}
-                </p>
-              </div>
-            </div>
           </div>
         ))}
       </div>

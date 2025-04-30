@@ -81,7 +81,7 @@
     {
       "id": "1",
       "count": "5",
-      "src": "./img/avatar-image.png",
+      "src": "./img/cert1.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "author_name": "Dianne Russel",
       "author_designation": "Starbucks"
@@ -89,7 +89,7 @@
     {
       "id": "2",
       "count": "5",
-      "src": "./img/avatar-image-1.png",
+      "src": "./img/cert2.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "author_name": "Kristin Watson",
       "author_designation": "Louis Vuitton"
@@ -97,7 +97,7 @@
     {
       "id": "3",
       "count": "5",
-      "src": "./img/avatar-image-2.png",
+      "src": "./img/cert3.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "author_name": "Kathryn Murphy",
       "author_designation": "McDonald's"
@@ -106,7 +106,7 @@
   "technologies": [
     {
       "id": "1",
-      "src": "./img/tag-1.png",
+      "src": "",
       "description": "React JS"
     },
     {
